@@ -1,0 +1,8 @@
+/* requerir módulo autos */
+
+const autosImportados = require('./modulo');
+
+const concesionaria = {
+    /* completar */
+  autos: autosImportados
+};
